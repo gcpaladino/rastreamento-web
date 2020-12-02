@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="68px" viewBox="0 0 94 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-1.1%" y="-1.5%" width="104.3%" height="106.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.289855072 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -1.000000)">
+            <g id="Group" filter="url(#filter-1)" transform="translate(0.000000, 1.000000)">
+                <path d="M45.2512639,0.0132349118 C34.7924424,0.375734915 26.1037413,8.43602909 25.0999535,18.7246321 C24.8948786,20.7823527 25.0136062,22.7761027 25.3805823,24.6845586 C25.3805823,24.6845586 25.4129626,24.9084557 25.5208968,25.3349263 C25.8446993,26.7636028 26.3304031,28.1496322 26.9348345,29.4503675 C29.0395509,34.3761028 33.9073821,42.617647 44.8303206,51.5841912 C45.4995125,52.1386029 46.4817134,52.1386029 47.1616987,51.5841912 C58.0846372,42.6283088 62.9524685,34.3867646 65.0679783,29.4397057 C65.6832031,28.1389704 66.1581134,26.7636028 66.481916,25.3242645 C66.5790567,24.9084557 66.6222304,24.6738969 66.6222304,24.6738969 C66.870479,23.3944851 67,22.083088 67,20.7397057 C67,9.03308792 57.1887835,-0.402573915 45.2512639,0.0132349118 Z" id="Shape" fill="#00BE00" fill-rule="nonzero"></path>
+                <circle id="Oval-4" fill="#FFFFFF" cx="46" cy="20" r="9"></circle>
+                <rect id="Rectangle-2" fill="#0B7395" x="0" y="25" width="92" height="20" rx="10"></rect>
+                <ellipse id="Oval-3" fill="#000000" opacity="0.365375906" cx="46" cy="64" rx="6" ry="2"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
